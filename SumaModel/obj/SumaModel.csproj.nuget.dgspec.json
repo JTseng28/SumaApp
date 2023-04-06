@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jasmine/Documents/Programming/SumaApp/SumaModel/SumaModel.csproj": {}
+    "/Users/jasmine/Documents/Programming/SumaApp/sumamodel/SumaModel.csproj": {}
   },
   "projects": {
-    "/Users/jasmine/Documents/Programming/SumaApp/SumaModel/SumaModel.csproj": {
+    "/Users/jasmine/Documents/Programming/SumaApp/sumamodel/SumaModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jasmine/Documents/Programming/SumaApp/SumaModel/SumaModel.csproj",
+        "projectUniqueName": "/Users/jasmine/Documents/Programming/SumaApp/sumamodel/SumaModel.csproj",
         "projectName": "SumaModel",
-        "projectPath": "/Users/jasmine/Documents/Programming/SumaApp/SumaModel/SumaModel.csproj",
+        "projectPath": "/Users/jasmine/Documents/Programming/SumaApp/sumamodel/SumaModel.csproj",
         "packagesPath": "/Users/jasmine/.nuget/packages/",
-        "outputPath": "/Users/jasmine/Documents/Programming/SumaApp/SumaModel/obj/",
+        "outputPath": "/Users/jasmine/Documents/Programming/SumaApp/sumamodel/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jasmine/.nuget/NuGet/NuGet.Config"

@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SumaBL/1.0.0": {
+        "dependencies": {
+          "SumaDL": "1.0.0",
+          "SumaModel": "1.0.0"
+        },
+        "runtime": {
+          "SumaBL.dll": {}
+        }
+      },
+      "SumaDL/1.0.0": {
+        "dependencies": {
+          "SumaModel": "1.0.0"
+        },
+        "runtime": {
+          "SumaDL.dll": {}
+        }
+      },
+      "SumaModel/1.0.0": {
+        "runtime": {
+          "SumaModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SumaBL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SumaDL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SumaModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

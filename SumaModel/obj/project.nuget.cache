@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PXB698ha7lwlzJ7avzY3GMd0bnK0ipllkPvDFMAIuyau8FrD22wyd6mGU69hbRx7MvcueyuS2rGygJ3nwFkxOQ==",
+  "dgSpecHash": "jtLZ1miTjcZSz8X38qlbk118RHH874j2kILvzbyeV2kVu/EuKGUQ6OgLow8Uk21LbB9XASmhkyDd3i7Tb1gJdg==",
   "success": true,
-  "projectFilePath": "/Users/jasmine/Documents/Programming/SumaApp/SumaModel/SumaModel.csproj",
+  "projectFilePath": "/Users/jasmine/Documents/Programming/SumaApp/sumamodel/SumaModel.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

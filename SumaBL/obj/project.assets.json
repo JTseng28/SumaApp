@@ -1,0 +1,110 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "SumaDL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "SumaModel": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SumaDL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SumaDL.dll": {}
+        }
+      },
+      "SumaModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/SumaModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SumaModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SumaDL/1.0.0": {
+      "type": "project",
+      "path": "../sumadl/SumaDL.csproj",
+      "msbuildProject": "../sumadl/SumaDL.csproj"
+    },
+    "SumaModel/1.0.0": {
+      "type": "project",
+      "path": "../sumamodel/SumaModel.csproj",
+      "msbuildProject": "../sumamodel/SumaModel.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "SumaDL >= 1.0.0",
+      "SumaModel >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/jasmine/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/jasmine/Documents/Programming/SumaApp/sumabl/SumaBL.csproj",
+      "projectName": "SumaBL",
+      "projectPath": "/Users/jasmine/Documents/Programming/SumaApp/sumabl/SumaBL.csproj",
+      "packagesPath": "/Users/jasmine/.nuget/packages/",
+      "outputPath": "/Users/jasmine/Documents/Programming/SumaApp/sumabl/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/jasmine/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "/Users/jasmine/Documents/Programming/SumaApp/sumadl/SumaDL.csproj": {
+              "projectPath": "/Users/jasmine/Documents/Programming/SumaApp/sumadl/SumaDL.csproj"
+            },
+            "/Users/jasmine/Documents/Programming/SumaApp/sumamodel/SumaModel.csproj": {
+              "projectPath": "/Users/jasmine/Documents/Programming/SumaApp/sumamodel/SumaModel.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.200/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

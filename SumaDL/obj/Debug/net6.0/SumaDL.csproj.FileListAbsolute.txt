@@ -1,0 +1,15 @@
+/Users/jasmine/Documents/Programming/SumaApp/sumadl/bin/Debug/net6.0/SumaDL.deps.json
+/Users/jasmine/Documents/Programming/SumaApp/SumaDL/bin/Debug/net6.0/SumaDL.dll
+/Users/jasmine/Documents/Programming/SumaApp/SumaDL/bin/Debug/net6.0/SumaDL.pdb
+/Users/jasmine/Documents/Programming/SumaApp/SumaDL/obj/Debug/net6.0/SumaDL.csproj.AssemblyReference.cache
+/Users/jasmine/Documents/Programming/SumaApp/SumaDL/obj/Debug/net6.0/SumaDL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jasmine/Documents/Programming/SumaApp/SumaDL/obj/Debug/net6.0/SumaDL.AssemblyInfoInputs.cache
+/Users/jasmine/Documents/Programming/SumaApp/SumaDL/obj/Debug/net6.0/SumaDL.AssemblyInfo.cs
+/Users/jasmine/Documents/Programming/SumaApp/SumaDL/obj/Debug/net6.0/SumaDL.csproj.CoreCompileInputs.cache
+/Users/jasmine/Documents/Programming/SumaApp/SumaDL/obj/Debug/net6.0/SumaDL.dll
+/Users/jasmine/Documents/Programming/SumaApp/SumaDL/obj/Debug/net6.0/refint/SumaDL.dll
+/Users/jasmine/Documents/Programming/SumaApp/SumaDL/obj/Debug/net6.0/SumaDL.pdb
+/Users/jasmine/Documents/Programming/SumaApp/sumadl/obj/Debug/net6.0/ref/SumaDL.dll
+/Users/jasmine/Documents/Programming/SumaApp/SumaDL/bin/Debug/net6.0/SumaModel.dll
+/Users/jasmine/Documents/Programming/SumaApp/SumaDL/bin/Debug/net6.0/SumaModel.pdb
+/Users/jasmine/Documents/Programming/SumaApp/sumadl/obj/Debug/net6.0/SumaDL.csproj.CopyComplete
