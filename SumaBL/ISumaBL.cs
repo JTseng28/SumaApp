@@ -10,6 +10,16 @@ public interface ISumatraBL
 {
     
     User AddUser(User p_user);
-    
+
+    public List<User> GetAllUsers();
+
+    /// <summary>
+    /// Returns a list of user objects that are related to the searched name
+    /// </summary>
+    /// <param name="p_user">Name parameter being used to filter our Users</param>
+    /// <returns></returns>
+    List<User> SearchUser(string p_user);
+
+    List<User> SearchUserbyEmail(string p_email);
 
 }

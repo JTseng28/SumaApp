@@ -20,5 +20,10 @@ namespace SumaModel
             Email = "JT11@email.com";
 
         }
+
+        public override string ToString()//formatting of how ths User class will be displays in the console instead of the default "SumaModel.User". Method comes from System.Object. 
+        {
+            return $"Username: {Username}\nName: {Name}\nEmail: {Email}";
+        }
     }
 }

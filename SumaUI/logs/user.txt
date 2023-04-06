@@ -1,0 +1,26 @@
+2023-04-06 00:19:32.154 -07:00 [INF] Displaying Add User Menu
+2023-04-06 00:19:35.855 -07:00 [INF] Displaying Main Menu
+2023-04-06 00:19:38.812 -07:00 [INF] Displaying Search User Menu
+2023-04-06 00:20:11.300 -07:00 [INF] Displaying Main Menu
+2023-04-06 00:20:13.254 -07:00 [INF] Exiting Application
+2023-04-06 00:35:25.769 -07:00 [INF] Displaying Add User Menu
+2023-04-06 00:37:24.336 -07:00 [INF] Displaying Main Menu
+2023-04-06 00:37:26.732 -07:00 [INF] Displaying Add User Menu
+2023-04-06 00:38:16.621 -07:00 [INF] Displaying Add User Menu
+2023-04-06 00:39:18.176 -07:00 [INF] Adding new user 
+Username: ss123
+Name: Ken
+Email: hi@yahoo.com
+2023-04-06 00:39:18.355 -07:00 [INF] Displaying Main Menu
+2023-04-06 00:39:24.356 -07:00 [INF] Displaying Search User Menu
+2023-04-06 00:44:59.177 -07:00 [INF] Displaying Add User Menu
+2023-04-06 00:45:07.306 -07:00 [INF] Displaying Add User Menu
+2023-04-06 00:45:18.696 -07:00 [INF] Displaying Add User Menu
+2023-04-06 00:45:25.248 -07:00 [INF] Displaying Add User Menu
+2023-04-06 00:45:37.063 -07:00 [INF] Displaying Add User Menu
+2023-04-06 00:45:40.253 -07:00 [INF] Adding new user 
+Username: Spongebob7
+Name: Rob
+Email: SBSP@yahoo.com
+2023-04-06 00:45:40.442 -07:00 [INF] New user added
+2023-04-06 00:45:41.876 -07:00 [INF] Displaying Main Menu
